@@ -25,7 +25,10 @@
     "url": "https://github.com/elijahjcobb/lithium/issues"
   },
   "homepage": "https://github.com/elijahjcobb/lithium#readme",
-  "dependencies": {},
+  "dependencies": {
+    "@ejc-tsds/dictionary": "latest",
+    "@ejc-tsds/arraylist": "latest"
+  },
   "devDependencies": {
     "@types/node": "latest",
     "typescript": "latest",
